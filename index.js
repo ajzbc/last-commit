@@ -48,6 +48,6 @@ function fetchCommmit() {
             }
         }).catch(err => {
             console.log(err);
-    });
+        });
     }
 }
